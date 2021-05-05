@@ -1,1 +1,1 @@
-hostname
+print(hostname)
