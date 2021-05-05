@@ -1,3 +1,2 @@
-import os
-myhost = os.uname()[1]
-print(myhost)
+import socket
+print(socket.gethostname())
